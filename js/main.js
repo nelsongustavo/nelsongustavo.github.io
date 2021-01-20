@@ -1,8 +1,8 @@
 window.onload = function() {
 
-    var $menuIcon = document.getElementsByClassName('menu-icon')[0],
-        $offCanva = document.getElementsByClassName('off-canvas')[0];
-        $siteWrap = document.getElementsByClassName('site-wrapper')[0];
+    let $menuIcon = document.getElementsByClassName('menu-icon')[0];
+    let $offCanva = document.getElementsByClassName('off-canvas')[0];
+    let $siteWrap = document.getElementsByClassName('site-wrapper')[0];
 
     $menuIcon.addEventListener('click', function() {
         toggleClass($menuIcon, 'close');

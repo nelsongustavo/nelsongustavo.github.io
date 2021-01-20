@@ -2,6 +2,7 @@
 layout: post
 title:  "Guia definitivo para nomear variáveis"
 date:   2021-01-19 20:30:00
+category: Qualidade
 ---
 
 Dar nome às coisas não é uma tarefa fácil. Este post vai tentar te ajudar nesse processo.
