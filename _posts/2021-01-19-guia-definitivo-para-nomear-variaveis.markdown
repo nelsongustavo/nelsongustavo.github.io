@@ -245,8 +245,6 @@ link.addEventListener('click', handleLinkClick)
 
 O domínio que a função está operando.
 
-A function is often an action on _something_. It is important to state what is its operable domain, or at least an expected data type.
-
 Uma função é geralmente uma função em _alguma coisa_. É importante declarar qual é o seu domínio, ou ao menos o tipo de dado esperado.
 
 ```js
