@@ -350,7 +350,7 @@ const friend = 'Bob'
 const friends = ['Bob', 'Tony', 'Tanya']
 ```
 
-Sempre me frustrei muito ao perceber uma falta de padrão nos projetos em que trabalhava, muitas vezes gastava tempo demais por não saber exatamente qual caminho seguir ao nomear uma simples variável. Já faz muito tempo que venho batendo nessa tecla de adotar um padrão para nomes de variáveis e funções e segui-lo, quando atuei como líder do time de desenvolvimento, fiz o máximo para manter as coisas mais padronizadas o possível, para facilitar a munutenção e qualidade do código.
+Sempre me frustrei muito ao perceber uma falta de padrão nos projetos em que trabalhava, muitas vezes gastava tempo demais por não saber exatamente qual caminho seguir ao nomear uma simples variável. Já faz muito tempo que venho batendo nessa tecla de adotar um padrão para nomes de variáveis e funções e segui-lo, quando atuei como líder do time de desenvolvimento, fiz o máximo para manter as coisas mais padronizadas o possível, para facilitar a manutenção e qualidade do código.
 
 
 ## Referência
