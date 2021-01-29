@@ -26,18 +26,18 @@ title: Homepage
 {% if paginator.total_pages > 1 %}
 <div class="pagination">
   {% if paginator.next_page %}
-  <a href="{{ site.baseurl }}/page/{{paginator.next_page}}" class="older">Older</a>
+  <a href="{{ site.baseurl }}/page/{{paginator.next_page}}" class="older">Anterior</a>
   {% else %}
-  <span class="next">Older</span>
+  <span class="next">Anterior</span>
   {% endif %}
   {% if paginator.previous_page %}
     {% if paginator.page == 2 %}
-    <a href="{{ site.baseurl }}/" class="newer">Newer</a>
+    <a href="{{ site.baseurl }}/" class="newer">Próximo</a>
     {% else %}
-    <a href="{{ site.baseurl }}/page/{{paginator.previous_page}}" class="newer">Newer</a>
+    <a href="{{ site.baseurl }}/page/{{paginator.previous_page}}" class="newer">Próximo</a>
     {% endif %}
   {% else %}
-  <span class="previous">Newer</span>
+  <span class="previous">Próximo</span>
   {% endif %}
 </div>
 {% endif %}
